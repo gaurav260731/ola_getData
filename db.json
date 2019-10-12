@@ -1,0 +1,36 @@
+{
+    "ride":[
+        {
+            "date": "",
+            "CRN" : "3323324532",
+            "source" : "2546, 25th Main HSR Layout",
+            "destination" : "Zenrays Technologies Pvt Ltd",
+            "status" : "cancelled" ,
+            "deliver_photo" : "https://www.pngkey.com/png/detail/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
+        },
+        {
+            "date": "",
+            "CRN" : "3323324532",
+            "source" : "2546, 25th Main HSR Layout",
+            "destination" : "Zenrays Technologies Pvt Ltd",
+            "status" : "cancelled" ,
+            "deliver_photo" : "https://www.pngkey.com/png/detail/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
+        },
+        {
+            "date": "",
+            "CRN" : "3323324532",
+            "source" : "2546, 25th Main HSR Layout",
+            "destination" : "Zenrays Technologies Pvt Ltd",
+            "status" : "cancelled" ,
+            "deliver_photo" : "https://www.pngkey.com/png/detail/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
+        },{
+            "date": "",
+            "CRN" : "3323324532",
+            "source" : "2546, 25th Main HSR Layout",
+            "destination" : "Zenrays Technologies Pvt Ltd",
+            "status" : "cancelled" ,
+            "deliver_photo" : "https://www.pngkey.com/png/detail/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
+        }
+
+    ]
+}
